@@ -1,4 +1,7 @@
 Termial. HW_2
+
+https://t.me/annasuvorovatg
+
 1. Сделать папку dir_1
 mkdir dir1
 
